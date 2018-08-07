@@ -1,9 +1,10 @@
-name: "mywebpage"  
+name: "notanerd"  
 author: "Adina Wagner"  
 output_dir: "docs"  
 output:  
   html_document:  
     self_contained: no  
-    theme: flatly  
+    theme: paper  
+    css: style.css
 navbar:  
-  title: "My First Webpage" 
+  title: "Adina Wagner" 
