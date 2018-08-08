@@ -21,3 +21,14 @@ navbar:
       href: about.html
     - text: "Blog"
       href: blog.html
+  right:
+    - icon: r fa("envelope") fa-lg
+      href: contact.html
+    - icon: fa-github fa-lg
+      href: http://github.com/AdinaWagner
+    - icon: fa-twitter fa-lg
+      href: https://twitter.com/AdinaKrik
+    - icon: fa-linkedin fa-lg
+      href: https://www.linkedin.com/in/adina-wagner-611379123/
+    - icon: fa-researchgate fa-lg
+      href: https://www.researchgate.net/profile/Adina_Wagner?ev=hdr_xprf

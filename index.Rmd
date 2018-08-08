@@ -3,7 +3,9 @@ title: "Home"
 ---
 ### Hi!
 
-Welcome to this homepage. My name is Adina.
+<img style="float: right;" src="img/me.jpg" width="400" height="500">
+
+I'm as surprised as you are. Welcome to this homepage. My name is Adina.
 I am a Masters Student in the [Psychoinformatics Lab](http://www.psychoinformatics.de) of the Otto-von-Guericke University in the beautiful city Magdeburg. Because the city is so beautiful, I chose to live approx. 100km away and only dare to enter it during daytimes. Just kidding. I only live 100km away because I like trains a lot.
 
 So all fun aside, you ended up on a mock/test homepage on which I will just try myself out. I don't think you'll find anything interesting here. Maybe some lame jokes that you will find weird if you don't know me in person. 
@@ -14,6 +16,12 @@ My aims with this homepage:
 * Have a website ready for when I will write an informative blogpost on something
 * procrastenate from writing my thesis
 
-This is me, Adina, obviously the one on the left.
 
-![me](img/IMG_0326.jpg){width=30%}
+
+Where you can find me:
+
+```{r load_packages, message=FALSE, warning=FALSE, include=FALSE}
+library(fontawesome)
+```
+
+## [`r fa("envelope")`](contact.html) [`r fa("github")`](http://github.com/AdinaWagner) [`r fa("twitter")`](https://twitter.com/AdinaKrik) [`r fa("linkedin")`](https://www.linkedin.com/in/adina-wagner-611379123/) [`r fa("newspaper")`](https://www.researchgate.net/profile/Adina_Wagner?ev=hdr_xprf)

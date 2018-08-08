@@ -2,3 +2,18 @@
 blockquote {
   font-style: italic
 }
+
+.background1 {
+  padding-top: 80px;
+  background-image: url("img/descriptive.png");
+  background-repeat: no-repeat;
+  background-position: 0 100px;
+  top: 30;
+}
+.background2 {
+  padding-top: 80px;
+  background-image: url("img/CV.png");
+  background-repeat: no-repeat;
+  background-position: 0 100px;
+  top: 30;
+}
