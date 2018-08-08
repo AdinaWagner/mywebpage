@@ -1,18 +1,19 @@
 ---
-title: "notanerd"
+title: "Home"
 ---
 ### Hi!
 
-Welcome to this homepage. My name is Adina (and I really like this name because it appearently is Hebrew for 'soft' and 'pillowy').
-I am a Masters Student in the Psychoinformatics Lab (http://www.psychoinformatics.de) of the Otto-von-Guericke University in the beautiful city Magdeburg. Because the city is so beautiful, I chose to live approx. 100km away and only dare to enter it during daytimes. Just kidding. I only live 100km away because I like trains a lot.
+Welcome to this homepage. My name is Adina.
+I am a Masters Student in the [Psychoinformatics Lab](http://www.psychoinformatics.de) of the Otto-von-Guericke University in the beautiful city Magdeburg. Because the city is so beautiful, I chose to live approx. 100km away and only dare to enter it during daytimes. Just kidding. I only live 100km away because I like trains a lot.
 
 So all fun aside, you ended up on a mock/test homepage on which I will just try myself out. I don't think you'll find anything interesting here. Maybe some lame jokes that you will find weird if you don't know me in person. 
 
 My aims with this homepage:
 
-* Trying out this awesome tutorial (https://gupsych.github.io/acadweb/content.html) that Oliver (https://olivercontier.com/) retweeted a while ago
+* Trying out this [awesome tutorial](https://gupsych.github.io/acadweb/content.html) that [Oliver](https://olivercontier.com/) retweeted a while ago
 * Have a website ready for when I will write an informative blogpost on something
 * procrastenate from writing my thesis
 
 This is me, Adina, obviously the one on the left.
-![me](/home/adina/Pictures/2017.12-psyinf-party/IMG_0326.jpg)
+
+![me](img/IMG_0326.jpg){width=30%}

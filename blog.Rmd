@@ -1,0 +1,5 @@
+---
+title: "Something cool"
+---
+
+When I'm a real page, I want to contain an accessible, hands on blog that some other people can maybe benefit from.
