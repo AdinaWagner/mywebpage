@@ -24,4 +24,4 @@ Where you can find me:
 library(fontawesome)
 ```
 
-## [`r fa("envelope")`](contact.html) [`r fa("github")`](http://github.com/AdinaWagner) [`r fa("twitter")`](https://twitter.com/AdinaKrik) [`r fa("linkedin")`](https://www.linkedin.com/in/adina-wagner-611379123/) [`r fa("newspaper")`](https://www.researchgate.net/profile/Adina_Wagner?ev=hdr_xprf)
+## [`r fa("envelope")`](contact.html) [`r fa("github")`](http://github.com/AdinaWagner) [`r fa("twitter")`](https://twitter.com/AdinaKrik) [`r fa("linkedin")`](https://www.linkedin.com/in/adina-wagner-611379123/) [`r fa("researchgate")`](https://www.researchgate.net/profile/Adina_Wagner?ev=hdr_xprf)
