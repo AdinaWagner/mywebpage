@@ -6,20 +6,20 @@ title: "Home"
 <img style="float: right;" src="img/me.jpg" width="400" height="500">
 
 I'm as surprised as you are. Welcome to this homepage. My name is Adina.
-I am a Masters Student in the [Psychoinformatics Lab](http://www.psychoinformatics.de) of the Otto-von-Guericke University in the beautiful city Magdeburg. Because the city is so beautiful, I chose to live approx. 100km away and only dare to enter it during daytimes. Just kidding. I only live 100km away because I like trains a lot.
+I am a Masters Student in the [Psychoinformatics Lab](http://www.psychoinformatics.de) of the Otto-von-Guericke University in the beautiful city Magdeburg. Because the city is so beautiful, I chose to live approx. 100km away and only dare to enter it during daytimes. Just kidding. I only live 100km away because I like trains a lot. Actually, I'm currently even further away and spend my days and nights in front of computer in a remote town in the middle of a winter wonderland in New Hampshire, USA. I'm sure I would find it very beautiful and scenic if I would ever leave my office.
 
-So all fun aside, you ended up on a mock/test homepage on which I will just try myself out. I don't think you'll find anything interesting here. Maybe some lame jokes that you will find weird if you don't know me in person. 
+So all fun aside, you ended up on a half-baked homepage on which I will just try myself out. I don't think you'll find anything interesting here. Maybe some lame jokes. But I didn't even bother to supply cat content (sorry). 
 
-My aims with this homepage:
+My aims with this homepage can be summarised as follows:
 
 * Trying out this [awesome tutorial](https://gupsych.github.io/acadweb/content.html) that [Oliver](https://olivercontier.com/) retweeted a while ago
 * Have a website ready for when I will write an informative blogpost on something
-* procrastenate from writing my thesis
+* procrastenate from writing my thesis. 
 
+Yes. Mainly the last point.
 
 
 Where you can find me:
-
 ```{r load_packages, message=FALSE, warning=FALSE, include=FALSE}
 library(fontawesome)
 ```
